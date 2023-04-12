@@ -1,8 +1,6 @@
 ---
-title: The Issue (1/3)
+title: 📽️ The Issue (1/3)
 enableToc: false
-tags:
-  - 📽️ Presentation
 ---
 
 ## Note-taking is rarely considered a method
@@ -14,7 +12,7 @@ tags:
 # 
 
  > 
- > Next: [Feminist concerns with representation 👉](!4%20Feminist%20concerns%20with%20representation.md)
+ > Next: [Feminist concerns with representation 👉](%F0%9F%93%BD%EF%B8%8F4%20Feminist%20concerns%20with%20representation.md)
 
 ---
 
@@ -25,4 +23,4 @@ tags:
  > 
  > This makes sense: Notes represent what the researcher observes as relevant about an object of study, and are used to inform subsequent analysis of that object once it is no longer within view.
 
-[📖](@3%20Notes%20as%20representations%20of%20knowledge.md)
+[📖](%F0%9F%93%963%20Notes%20as%20representations%20of%20knowledge.md)

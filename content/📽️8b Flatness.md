@@ -1,8 +1,6 @@
 ---
-title: 2. Flatness
+title: 📽️ 2. Flatness
 enableToc: false
-tags:
-  - 📽️ Presentation
 ---
 
 * Store notes in one container
@@ -10,13 +8,13 @@ tags:
   * Prevents duplicate work
   * Scales with the system
 * Notes are retrieved primarily through contextual relations
-  * Finding notes based on the way they link to other notes (see [3. Interconnection](!8c%20Interconnection.md))
+  * Finding notes based on the way they link to other notes (see [3. Interconnection](%F0%9F%93%BD%EF%B8%8F8c%20Interconnection.md))
   * Digital search and metadata can be helpful to find specific content if needed
 
 # 
 
  > 
- > Next: [3. Interconnection 👉](!8c%20Interconnection.md)
+ > Next: [3. Interconnection 👉](%F0%9F%93%BD%EF%B8%8F8c%20Interconnection.md)
 
 ---
 
@@ -33,4 +31,4 @@ tags:
  > 
  > Of course, there are always exceptions—sometimes you want information to be siloed! But flattening notes by putting them into one container encourages you put your ideas into context with others, enabling the generation of new and unexpected ideas.
 
-[📖](@6b%20Principle%20of%20flatness.md)
+[📖](%F0%9F%93%966b%20Principle%20of%20flatness.md)

@@ -1,8 +1,6 @@
 ---
-title: The Issue (2/3)
+title: 📽️ The Issue (2/3)
 enableToc: false
-tags:
-  - 📽️ Presentation
 ---
 
 ## Feminist concerns with representation
@@ -17,7 +15,7 @@ tags:
 # 
 
  > 
- > Next: [Information organization shapes knowledge production 👉](!5%20Information%20organization%20shapes%20knowledge%20production.md)
+ > Next: [Information organization shapes knowledge production 👉](%F0%9F%93%BD%EF%B8%8F5%20Information%20organization%20shapes%20knowledge%20production.md)
 
 ---
 
@@ -26,4 +24,4 @@ tags:
  > 
  > While this attention to the representational quality of notes is rarely considered objective, many feminist scholars have raised concern with exactly who gets to make such representations, of what, and how they become formed. And part of that questioning means recognizing the subjective entanglement of researchers, our research—including our notes—and the world around us.
 
-[📖](@4%20Notes%20as%20constructions%20of%20knowledge.md)
+[📖](%F0%9F%93%964%20Notes%20as%20constructions%20of%20knowledge.md)

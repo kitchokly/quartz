@@ -1,8 +1,6 @@
 ---
-title: Questions for note-taking
+title: 📽️ Questions for note-taking
 enableToc: false
-tags:
-  - 📽️ Presentation
 ---
 
 * What (or who) do we consider note-worthy?
@@ -13,7 +11,7 @@ tags:
 # 
 
  > 
- > Next: [Networked note-taking 👉](!7%20Networked%20note-taking.md)
+ > Next: [Networked note-taking 👉](%F0%9F%93%BD%EF%B8%8F7%20Networked%20note-taking.md)
 
 ---
 

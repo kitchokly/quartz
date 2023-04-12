@@ -1,11 +1,9 @@
 ---
-title: Four principles of a feminist note-taking methodology
+title: 📖 Four principles of a feminist note-taking methodology
 enableToc: false
-tags:
-  - 📖 Paper
 ---
 
-Considering the varying conceptualizations of notes as representations, constructions, and structures of knowledge in relation to feminist epistemological concerns, I [return to my original question](@2%20Introduction.md): How can we take notes committed to producing socially just knowledges? This section presents four brief principles I have developed which inform by own feminist note-taking methodology. Although these principles are necessarily listed in a chosen order, no one principle is more important than the other. They are all required to work together to establish a feminist note network.
+Considering the varying conceptualizations of notes as representations, constructions, and structures of knowledge in relation to feminist epistemological concerns, I [return to my original question](📖2%20Introduction.md): How can we take notes committed to producing socially just knowledges? This section presents four brief principles I have developed which inform by own feminist note-taking methodology. Although these principles are necessarily listed in a chosen order, no one principle is more important than the other. They are all required to work together to establish a feminist note network.
 
 I also include some rudimentary technical explanations as to how to enact these principles. This includes writing notes in a language called Markdown, a human readable language which enables heading structures and basic text formatting like italics, bold, links, and blockquotes. Critically, Markdown enables not just hyperlinks to outside resources but also links between files. For details on Markdown syntax, I highly recommend visiting [Markdown Guide](https://www.markdownguide.org) ([Cone, 2022](References/Cone,%202022.md)).
 
@@ -15,12 +13,12 @@ These principles draw on strategies outlined by a number of thinkers in PKM, man
 
 ## The four principles
 
-1. [Principle of atomicity](@6a%20Principle%20of%20atomicity.md)
-1. [Principle of flatness](@6b%20Principle%20of%20flatness.md)
-1. [Principle of interconnection](@6c%20Principle%20of%20interconnection.md)
-1. [Principle of iteration](@6d%20Principle%20of%20iteration.md)
+1. [Principle of atomicity](📖6a%20Principle%20of%20atomicity.md)
+1. [Principle of flatness](📖6b%20Principle%20of%20flatness.md)
+1. [Principle of interconnection](📖6c%20Principle%20of%20interconnection.md)
+1. [Principle of iteration](📖6d%20Principle%20of%20iteration.md)
 
 # 
 
  > 
- > [👈 Notes as structures of knowledge](@5%20Notes%20as%20structures%20of%20knowledge.md) | [Conclusion 👉](@7%20Conclusion.md)
+ > [👈 Notes as structures of knowledge](📖5%20Notes%20as%20structures%20of%20knowledge.md) | [Conclusion 👉](📖7%20Conclusion.md)

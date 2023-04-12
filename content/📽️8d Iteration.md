@@ -1,8 +1,6 @@
 ---
-title: 3. Interconnection
+title: 📽️ 4. Iteration
 enableToc: false
-tags:
-  - 📽️ Presentation
 ---
 
 * Review notes and re-evaluate periodically
@@ -12,7 +10,7 @@ tags:
 # 
 
  > 
- > Next: [Conclusion 👉](!9%20Conclusion.md)
+ > Next: [Conclusion 👉](%F0%9F%93%BD%EF%B8%8F9%20Conclusion.md)
 
 ---
 
@@ -21,4 +19,4 @@ tags:
  > 
  > Last is iteration. This means a note is not necessarily complete once it’s written. Future insights will likely come to shape a note slightly differently, or encourage it to be merged with another note—or separated into further notes. This principle recognizes that notes in a networked note-taking system are living ideas, so don’t be afraid to make changes as you go—actually, I encourage it. Regularly reviewing notes and their connections is a useful way to make sure that they meet our research needs, with the added benefit of bringing older notes back to mind to develop future connections.
 
-[📖](@6d%20Principle%20of%20iteration.md)
+[📖](%F0%9F%93%966d%20Principle%20of%20iteration.md)

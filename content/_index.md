@@ -9,13 +9,13 @@ enableToc: false
 
 ## 📖 Read the paper
 
-[Developing a feminist note-taking system](@1%20Developing%20a%20feminist%20note-taking%20system.md)
+*[Developing a feminist note-taking system](%F0%9F%93%961%20Developing%20a%20feminist%20note-taking%20system.md)*
 
 ## 📽️ See the presentation
 
 April 13, 2023, [McGill Feminist Research Colloquium](https://frcmcgill.blogspot.com/p/2023-schedule-and-abstracts.html)
 
-* [Note-taking as an interdisciplinary feminist method](!1%20Note-taking%20as%20an%20interdisciplinary%20feminist%20method.md)
+* *[Note-taking as an interdisciplinary feminist method](%F0%9F%93%BD%EF%B8%8F1%20Note-taking%20as%20an%20interdisciplinary%20feminist%20method.md)*
 
 ## 👋 Say hi
 

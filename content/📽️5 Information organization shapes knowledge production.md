@@ -1,8 +1,6 @@
 ---
-title: The Issue (3/3)
+title: 📽️ The Issue (3/3)
 enableToc: false
-tags:
-  - 📽️ Presentation
 ---
 
 ## Information organization shapes knowledge production
@@ -14,7 +12,7 @@ tags:
 # 
 
  > 
- > Next: [Questions for note-taking 👉](!6%20Questions%20for%20note-taking.md)
+ > Next: [Questions for note-taking 👉](%F0%9F%93%BD%EF%B8%8F6%20Questions%20for%20note-taking.md)
 
 ---
 
@@ -29,4 +27,4 @@ tags:
  > 
  > Since notes are some of our data sources and are always in relation with the world and each other, note-taking must go beyond the singular emphasis on note content and representation to *also* consider the system which puts notes in context with each other.
 
-[📖](@5%20Notes%20as%20structures%20of%20knowledge.md)
+[📖](%F0%9F%93%965%20Notes%20as%20structures%20of%20knowledge.md)

@@ -1,8 +1,6 @@
 ---
-title: Notes as constructions of knowledge
+title: 📖 Notes as constructions of knowledge
 enableToc: false
-tags:
-  - 📖 Paper
 ---
 
 An exception to the concern for note accuracy stems from approaches which recognize the constitutive rather than representational role note-taking plays in the production of knowledge. As a form of writing, note-taking is an inherently creative act, always involving thought rather than simply representing it ([Gibbs, 2007](References/Gibbs,%202007.md)). This suggests that representational accuracy should not be the sole goal for good note-taking as it ignores the role of the researcher in their observations and the knowledges they produce ([Gibbs, 2007](References/Gibbs,%202007.md)). 
@@ -19,4 +17,4 @@ By focusing on writing notes as not just a tool but a method which always involv
 # 
 
  > 
- > [👈 Notes as representations of knowledge](@3%20Notes%20as%20representations%20of%20knowledge.md) | [Notes as structures of knowledge 👉](@5%20Notes%20as%20structures%20of%20knowledge.md)
+ > [👈 Notes as representations of knowledge](📖3%20Notes%20as%20representations%20of%20knowledge.md) | [Notes as structures of knowledge 👉](📖5%20Notes%20as%20structures%20of%20knowledge.md)

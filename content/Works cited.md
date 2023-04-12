@@ -1,9 +1,6 @@
 ---
 title: Works cited
 enableToc: false
-tags:
-  - 📽️ Presentation
-  - 📖 Paper
 ---
 
 [Ahmed, S. (2019).](References/Ahmed,%202019.md) *What’s the use? On the uses of use*. Duke University Press.

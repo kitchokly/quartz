@@ -1,8 +1,6 @@
 ---
-title: 1. Granularity
+title: 📽️ 1. Granularity
 enableToc: false
-tags:
-  - 📽️ Presentation
 ---
 
 * Notes should only include one idea
@@ -11,12 +9,12 @@ tags:
 * It’s difficult to draw boundaries around a note/idea
   * If it’s too granular, the note doesn’t stand on its own
   * If it’s not granular enough, it’s harder to make connections between ideas
-* Reviewing and revising helps find the sweet spot (see [4. Iteration](!8d%20Iteration.md))
+* Reviewing and revising helps find the sweet spot (see [4. Iteration](%F0%9F%93%BD%EF%B8%8F8d%20Iteration.md))
 
 # 
 
  > 
- > Next: [2. Flatness 👉](!8b%20Flatness.md)
+ > Next: [2. Flatness 👉](%F0%9F%93%BD%EF%B8%8F8b%20Flatness.md)
 
 ---
 
@@ -27,4 +25,4 @@ tags:
  > 
  > This principle can be difficult to enact because it requires drawing boundaries around what makes up a complete idea from a complete source, concepts which has blurry boundaries to begin with. Overly-granular notes tend to not have enough information to stand on their own, but if you’re not granular enough, it’s really hard to link these notes to others. Finding the sweet spot in note length is part of the process of building a networked note-taking system. Fortunately, as we’ll see, the principle of iteration means there’s always opportunity to review and revise notes as you go.
 
-[📖](@6a%20Principle%20of%20atomicity.md)
+[📖](%F0%9F%93%966a%20Principle%20of%20atomicity.md)

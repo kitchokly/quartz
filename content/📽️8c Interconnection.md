@@ -1,8 +1,6 @@
 ---
-title: 3. Interconnection
+title: 📽️ 3. Interconnection
 enableToc: false
-tags:
-  - 📽️ Presentation
 ---
 
 * Linking notes liberally is the core of the system
@@ -12,7 +10,7 @@ tags:
 # 
 
  > 
- > Next: [4. Iteration 👉](!8d%20Iteration.md)
+ > Next: [4. Iteration 👉](%F0%9F%93%BD%EF%B8%8F8d%20Iteration.md)
 
 ---
 
@@ -23,4 +21,4 @@ tags:
  > 
  > This means linking notes liberally to create flexible and even novel contexts for ideas and concepts—the creative process of knowledge production. Linking our notes makes us rethink research as a process of relationship building, rather than just recording observations and other people’s literature.
 
-[📖](@6c%20Principle%20of%20interconnection.md)
+[📖](%F0%9F%93%966c%20Principle%20of%20interconnection.md)

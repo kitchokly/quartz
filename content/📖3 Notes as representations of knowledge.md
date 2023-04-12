@@ -1,8 +1,6 @@
 ---
-title: Notes as representations of knowledge
+title: 📖 Notes as representations of knowledge
 enableToc: false
-tags:
-  - 📖 Paper
 ---
 
 Most of the literature on note-taking focuses on writing individual notes on a particular topic, usually with an emphasis on their use as memory aids. In Europe, [Blair (2010)](References/Blair,%202010.md) argues that note-taking to support long-term memory emerged in the Renaissance, where notes were often collected, reviewed, and shared with others. The emphasis on sharing and collaboration and the genre of reference books which emerged from these practices shifted note-taking methods to become a generally standardized in the early modern era ([Blair, 2010](References/Blair,%202010.md)). This includes not just the content of notes but also their organization, as the collection of many-authored notes requires clear headings and the use of finding devices to locate any particular information ([Blair, 2010](References/Blair,%202010.md)). Note-taking was largely considered a research tool, however, and students in early universities largely did not take notes in lecture contexts ([Clark, 2008](References/Clark,%202008.md); [Marin & Sturm, 2021](References/Marin%20&%20Sturm,%202021.md)). 
@@ -14,4 +12,4 @@ This emphasis on representational accuracy is important. As [Gimenez & Patel (20
 # 
 
  > 
- > [👈 Introduction](@2%20Introduction.md) | [Notes as constructions of knowledge 👉](@4%20Notes%20as%20constructions%20of%20knowledge.md)
+ > [👈 Introduction](📖2%20Introduction.md) | [Notes as constructions of knowledge 👉](📖4%20Notes%20as%20constructions%20of%20knowledge.md)

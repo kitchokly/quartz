@@ -1,8 +1,6 @@
 ---
-title: Notes as structures of knowledge
+title: 📖 Notes as structures of knowledge
 enableToc: false
-tags:
-  - 📖 Paper
 ---
 
 Whether understood as materializations of memory or the process of situated thought itself, notes do not stand alone: They are always in relation to other thoughts, ideas, and observations. These relationships are always shaped by power, meaning that feminist note-taking must go beyond the contemporary emphasis on note contents to consider the broader system which places notes in context with each other and structures their retrieval.
@@ -29,4 +27,4 @@ Inspired by this history, I see an opportunity to bring a vision of social justi
 # 
 
  > 
- > [👈 Notes as constructions of knowledge](@4%20Notes%20as%20constructions%20of%20knowledge.md) | [Four principles of a feminist note-taking methodology 👉](@6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
+ > [👈 Notes as constructions of knowledge](📖4%20Notes%20as%20constructions%20of%20knowledge.md) | [Four principles of a feminist note-taking methodology 👉](📖6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
