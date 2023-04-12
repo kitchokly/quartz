@@ -1,27 +1,20 @@
 ---
-title: 🪴 Quartz 3.3
+title: Developing a feminist note-taking system
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+*A feminist experiment with academic note-taking.*
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+[Kit Chokly](https://kitchokly.com), PhD Student in Communication Studies, McGill University
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## 📖 Read the paper
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+[Developing a feminist note-taking system](Developing%20a%20feminist%20note-taking%20system.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+## 📽️ See the presentation
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+[Note-taking as an interdisciplinary feminist method](Presentation/Note-taking%20as%20an%20interdisciplinary%20feminist%20method.md)
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+## 👋 Say hi
 
+Send me an [email](mailto:kit.chokly@mail.mcgill.ca) (most reliable) or follow me on [Mastodon](https://zirk.us/@kitchokly) (less reliable) or [Twitter](https://twitter.com/kitchokly) (least reliable)
