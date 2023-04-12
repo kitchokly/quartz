@@ -6,7 +6,7 @@ enableGlobalGraph: true
 ### Local Graph ###
 
 localGraph:
-    enableLegend: false
+    enableLegend: true
     enableDrag: true
     enableZoom: true
     depth: 1 # set to -1 to show full graph
@@ -20,7 +20,7 @@ localGraph:
 ### Global Graph ###
 
 globalGraph:
-    enableLegend: false
+    enableLegend: true
     enableDrag: true
     enableZoom: true
     depth: -1 # set to -1 to show full graph
@@ -35,3 +35,5 @@ globalGraph:
 
 paths:
   - /moc: "#4388cc"
+  - /Paper: "#FFB500"
+  - /Presentation: "#F93800"
