@@ -1,6 +1,8 @@
 ---
 title: Questions for note-taking
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 * What (or who) do we consider note-worthy?

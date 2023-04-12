@@ -1,6 +1,8 @@
 ---
 title: 3. Interconnection
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 * Linking notes liberally is the core of the system

@@ -1,6 +1,8 @@
 ---
 title: 2. Flatness
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 * Store notes in one container

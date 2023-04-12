@@ -1,6 +1,8 @@
 ---
 title: Four principles of a feminist note-taking methodology
 enableToc: false
+tags:
+  - 📖 Paper
 ---
 
 Considering the varying conceptualizations of notes as representations, constructions, and structures of knowledge in relation to feminist epistemological concerns, I [return to my original question](Introduction.md): How can we take notes committed to producing socially just knowledges? This section presents four brief principles I have developed which inform by own feminist note-taking methodology. Although these principles are necessarily listed in a chosen order, no one principle is more important than the other. They are all required to work together to establish a feminist note network.
@@ -21,4 +23,4 @@ These principles draw on strategies outlined by a number of thinkers in PKM, man
 # 
 
  > 
- > [👈 Notes as structures of knowledge](Notes%20as%20structures%20of%20knowledge.md) | [Conclusion 👉](Paper%20Conclusion.md)
+ > [👈 Notes as structures of knowledge](Notes%20as%20structures%20of%20knowledge.md) | [Conclusion 👉](Conclusion.md)

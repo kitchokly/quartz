@@ -1,6 +1,8 @@
 ---
 title: Networked note-taking
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 

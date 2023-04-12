@@ -1,6 +1,8 @@
 ---
 title: Principle of atomicity
 enableToc: false
+tags:
+  - 📖 Paper
 ---
 
 ## Write notes to include only one idea

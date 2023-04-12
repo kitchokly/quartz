@@ -1,6 +1,8 @@
 ---
 title: The Issue (3/3)
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 ## Information organization shapes knowledge production

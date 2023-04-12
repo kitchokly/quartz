@@ -1,6 +1,8 @@
 ---
 title: Notes as structures of knowledge
 enableToc: false
+tags:
+  - 📖 Paper
 ---
 
 Whether understood as materializations of memory or the process of situated thought itself, notes do not stand alone: They are always in relation to other thoughts, ideas, and observations. These relationships are always shaped by power, meaning that feminist note-taking must go beyond the contemporary emphasis on note contents to consider the broader system which places notes in context with each other and structures their retrieval.

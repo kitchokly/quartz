@@ -1,6 +1,8 @@
 ---
 title: Conclusion
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 * Note-taking has always been a research method
@@ -28,4 +30,4 @@ enableToc: false
  > 
  > I hope these principles have helped you think about your own note-taking processes, something which I am also happy to hear more about, so please feel free to reach out to chat. Thank you.
 
-[📖](Paper%20Conclusion.md)
+[📖](Conclusion.md)

@@ -1,6 +1,8 @@
 ---
 title: Principle of flatness
 enableToc: false
+tags:
+  - 📖 Paper
 ---
 
 ## Store notes in one container

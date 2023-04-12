@@ -1,6 +1,8 @@
 ---
 title: 3. Interconnection
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 * Review notes and re-evaluate periodically
@@ -10,7 +12,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Conclusion 👉](Presentation%20Conclusion.md)
+ > Next: [Conclusion 👉](Presentation%20conclusion.md)
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Developing a feminist note-taking system
 enableToc: false
+tags:
+  - 📖 Paper
 ---
 
 *[Kit Chokly](https://kitchokly.com), PhD Student in Communication Studies, McGill University*
@@ -24,6 +26,6 @@ enableToc: false
 1. [Principle of interconnection](Principle%20of%20interconnection.md)
 1. [Principle of iteration](Principle%20of%20iteration.md)
 
-[Conclusion](Paper%20Conclusion.md)
+[Conclusion](Conclusion.md)
 
 [Works cited](Works%20cited.md)

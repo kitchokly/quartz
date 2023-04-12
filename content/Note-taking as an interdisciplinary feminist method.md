@@ -1,6 +1,8 @@
 ---
 title: Note-taking as an interdisciplinary feminist method
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 [McGill Feminist Research Colloquium](https://frcmcgill.blogspot.com/p/2023-schedule-and-abstracts.html), April 13, 2023  |   [Kit Chokly](https://kitchokly.com), PhD Student in Communication Studies

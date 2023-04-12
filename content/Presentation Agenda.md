@@ -1,6 +1,8 @@
 ---
 title: Presentation Agenda
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 
@@ -22,7 +24,7 @@ enableToc: false
    1. [Flatness](Flatness.md)
    1. [Interconnection](Interconnection.md)
    1. [Iteration](Iteration.md)
-1. [Conclusion](Presentation%20Conclusion.md)
+1. [Conclusion](Presentation%20conclusion.md)
 
 ---
 

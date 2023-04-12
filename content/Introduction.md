@@ -1,6 +1,8 @@
 ---
 title: Introduction
 enableToc: false
+tags:
+  - 📖 Paper
 ---
 
 Most researchers write notes every day. This banality positions note-taking as practice requiring little explanation: We read something, attend a lecture, or make a research observation, and then commit it to paper (digital or otherwise), storing it for retrieval at a later date (or not). As @MarinSturm2021 point out, note-taking is largely considered a mechanical process at best and boring and ineffective at worst. But to take note is to quite literally define what is considered notable, and, by extension, what is not ([Gimenez & Pinel, 2013](References/Gimenez%20&%20Pinel,%202013.md)). These noted observations then become evidence for the claims we make. Notes may not be frequently discussed, but they are part of the very foundation of the institutional production knowledge. 

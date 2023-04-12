@@ -1,6 +1,8 @@
 ---
 title: Principle of interconnection
 enableToc: false
+tags:
+  - 📖 Paper
 ---
 
 ## Link notes liberally

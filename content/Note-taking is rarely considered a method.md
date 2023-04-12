@@ -1,6 +1,8 @@
 ---
 title: The Issue (1/3)
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 ## Note-taking is rarely considered a method

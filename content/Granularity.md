@@ -1,6 +1,8 @@
 ---
 title: 1. Granularity
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 * Notes should only include one idea

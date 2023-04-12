@@ -1,6 +1,8 @@
 ---
 title: 4 Principles of a feminist networked note-taking system
 enableToc: false
+tags:
+  - 📽️ Presentation
 ---
 
 1. [Granularity](Granularity.md)
