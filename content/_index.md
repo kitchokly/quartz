@@ -9,7 +9,7 @@ enableToc: false
 
 ## 📖 Read the paper
 
-[Paper/Developing a feminist note-taking system](Paper/Developing%20a%20feminist%20note-taking%20system.md)
+[Developing a feminist note-taking system](Paper/Developing%20a%20feminist%20note-taking%20system.md)
 
 ## 📽️ See the presentation
 

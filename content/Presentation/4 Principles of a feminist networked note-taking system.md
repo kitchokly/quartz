@@ -10,9 +10,9 @@ enableToc: false
 
 ---
 
+ >  
+ >  [!quote]- Transcript
  > 
- > \[!quote\]- Transcript
- > 
- > The following are four brief principles I use to inform my own feminist note-taking methodology. While I’m necessarily listing them in a chosen order, no one principle is more important than the other--they all work together.
+ > The following are four brief principles I use to inform my own feminist note-taking methodology. While I’m necessarily listing them in a chosen order, no one principle is more important than the other—they all work together.
 
 [📖](../Paper/Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
