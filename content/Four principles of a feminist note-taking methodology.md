@@ -21,4 +21,4 @@ These principles draw on strategies outlined by a number of thinkers in PKM, man
 # 
 
  > 
- > [👈 Notes as structures of knowledge](Notes%20as%20structures%20of%20knowledge.md) | [Conclusion 👉](Conclusion.md)
+ > [👈 Notes as structures of knowledge](Notes%20as%20structures%20of%20knowledge.md) | [Conclusion 👉](Paper%20Conclusion.md)

@@ -13,8 +13,8 @@ enableToc: false
 
 ## 📽️ See the presentation
 
-[Note-taking as an interdisciplinary feminist method](Presentation/Note-taking%20as%20an%20interdisciplinary%20feminist%20method.md)
+[Note-taking as an interdisciplinary feminist method](Note-taking%20as%20an%20interdisciplinary%20feminist%20method.md)
 
 ## 👋 Say hi
 
-Send me an [email](mailto:kit.chokly@mail.mcgill.ca) (most reliable) or follow me on [Mastodon](https://zirk.us/@kitchokly) (less reliable) or [Twitter](https://twitter.com/kitchokly) (least reliable)
+Send me an email at kit.chokly@mail.mcgill.ca (most reliable) or follow me on [Mastodon](https://zirk.us/@kitchokly) (less reliable) or [Twitter](https://twitter.com/kitchokly) (least reliable)

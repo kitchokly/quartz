@@ -24,6 +24,6 @@ enableToc: false
 1. [Principle of interconnection](Principle%20of%20interconnection.md)
 1. [Principle of iteration](Principle%20of%20iteration.md)
 
-[Conclusion](Conclusion.md)
+[Conclusion](Paper%20Conclusion.md)
 
 [Works cited](Works%20cited.md)
