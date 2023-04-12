@@ -1,5 +1,5 @@
 ---
-title: Developing a feminist note-taking system
+title: 📝 Home
 enableToc: false
 ---
 
@@ -9,7 +9,7 @@ enableToc: false
 
 ## 📖 Read the paper
 
-[@1 Developing a feminist note-taking system](@1%20Developing%20a%20feminist%20note-taking%20system.md)
+[Developing a feminist note-taking system](@1%20Developing%20a%20feminist%20note-taking%20system.md)
 
 ## 📽️ See the presentation
 
