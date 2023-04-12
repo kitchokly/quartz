@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: Kit Chokly
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -10,20 +10,21 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/kitchokly/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  A feminist experiment with networked note-taking.
 page_title:
-  "🪴 Quartz 3.3"
+  "📝 Home"
 links:
+  - link_name: kitchokly.com
+    link: https://kitchokly.com
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/kitchokly
+  - link_name: Mastodon
+    link: https://zirk.us/@kitchokly
