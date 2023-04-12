@@ -21,8 +21,8 @@ enableToc: false
  > 
  > \[!quote\]- Transcript
  > 
- > What makes up a note? It can be easy to make massive notes with everything we’ve taken from one source. But making the core concepts from these sources as its own note is what helps produce a network of notes which create context from each other. So granularity allows us to retain the situatedness of an idea while still linking it other concepts.
+ > Granularity is about what makes up a single note. It can be easy to make massive notes with everything we’ve taken from one source. But making the core concepts from these sources as its own note is what helps produce a network of notes which create context from each other. So granularity allows us to retain the situatedness of an idea while still linking it other concepts.
  > 
  > This principle can be difficult to enact because it requires drawing boundaries around what makes up a complete idea from a complete source, concepts which has blurry boundaries to begin with. Overly-granular notes tend to not have enough information to stand on their own, but if you’re not granular enough, it’s really hard to link these notes to others. Finding the sweet spot in note length is part of the process of building a networked note-taking system. Fortunately, as we’ll see, the principle of iteration means there’s always opportunity to review and revise notes as you go.
 
-[📖](../Principle%20of%20atomicity.md)
+[📖](../Paper/Principle%20of%20atomicity.md)

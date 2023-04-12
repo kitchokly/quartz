@@ -22,6 +22,6 @@ enableToc: false
  > 
  > \[!quote\]- Transcript
  > 
- > While this attention to the representational quality of notes is rarely considered objective, many feminist scholars have raised concern with exactly who gets to make such representations, of what, and how they become formed. And part of that questioning means recognizing the subjective entanglement of researchers, our research—including our notes--and the world around us.
+ > While this attention to the representational quality of notes is rarely considered objective, many feminist scholars have raised concern with exactly who gets to make such representations, of what, and how they become formed. And part of that questioning means recognizing the subjective entanglement of researchers, our research—including our notes—and the world around us.
 
-[📖](../Notes%20as%20constructions%20of%20knowledge.md)
+[📖](../Paper/Notes%20as%20constructions%20of%20knowledge.md)

@@ -21,7 +21,7 @@ enableToc: false
  > 
  > \[!quote\]- Transcript
  > 
- > Storing notes all in one container enables connections between the externally imposed categories. By container, I am referring to whatever holds individual notes, like a folder or box.
+ > Flatness means storing notes all in one container. This enables connections between the externally imposed categories. By container, I am referring to whatever holds individual notes, like a folder or box.
  > 
  > In a non-networked system, we organize notes by their intended use or the context of their collection, like topics, themes, or projects. These can be useful in that they divide large volumes of files into smaller, contextual groups, making them much easier to find.
  > 
@@ -31,4 +31,4 @@ enableToc: false
  > 
  > Of course, there are always exceptions—sometimes you want information to be siloed! But flattening notes by putting them into one container encourages you put your ideas into context with others, enabling the generation of new and unexpected ideas.
 
-[📖](../Principle%20of%20flatness.md)
+[📖](../Paper/Principle%20of%20flatness.md)

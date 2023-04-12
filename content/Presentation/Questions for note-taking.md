@@ -18,4 +18,4 @@ enableToc: false
  > 
  > \[!quote\]- Transcript
  > 
- > So this leaves us with some questions for note-taking. What or who we think of as note-worthy? What sources do we take notes from? How can we do these sources justice in our research? And critically, how can we bring these sources into conversation with each other and others through our notes?
+ > So this leaves us with some questions for note-taking. What or who we think of as note-worthy? What sources do we take notes from? How can we do these sources justice in our research? And for my purposes here, how can we bring these sources into conversation with each other and others through our notes?
