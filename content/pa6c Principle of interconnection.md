@@ -17,10 +17,10 @@ The foundation of Luhmann's system involved finding ways to link notes via analo
 # 
 
  > 
- > [👈 Four principles overview](@6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
+ > [👈 Four principles overview](pa6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
 
  > 
- > 1. [Principle of atomicity 👉 ](@6a%20Principle%20of%20atomicity.md)
- > 1. [Principle of flatness 👉 ](@6b%20Principle%20of%20flatness.md)
+ > 1. [Principle of atomicity 👉 ](pa6a%20Principle%20of%20atomicity.md)
+ > 1. [Principle of flatness 👉 ](pa6b%20Principle%20of%20flatness.md)
  > 1. Principle of interconnection
- > 1. [Principle of iteration 👉 ](@6d%20Principle%20of%20iteration.md)
+ > 1. [Principle of iteration 👉 ](pa6d%20Principle%20of%20iteration.md)

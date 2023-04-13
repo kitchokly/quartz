@@ -12,7 +12,7 @@ enableToc: false
 # 
 
  > 
- > Next: [4 Principles of a feminist networked note-taking system](!7%204%20Principles%20of%20a%20feminist%20networked%20note-taking%20system.md)
+ > Next: [4 Principles of a feminist networked note-taking system](pr7%204%20Principles%20of%20a%20feminist%20networked%20note-taking%20system.md)
 
 ---
 
@@ -25,4 +25,4 @@ enableToc: false
  > 
  > How can we treat note-taking with intention, as a legitimate part of our research methods informed not just by representation and perspective, but *also* the systems which put notes in conversation with each other?
 
-[📖](@6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
+[📖](pa6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)

@@ -12,4 +12,4 @@ This emphasis on representational accuracy is important. As [Gimenez & Patel (20
 # 
 
  > 
- > [👈 Introduction](@2%20Introduction.md) | [Notes as constructions of knowledge 👉](@4%20Notes%20as%20constructions%20of%20knowledge.md)
+ > [👈 Introduction](pa2%20Introduction.md) | [Notes as constructions of knowledge 👉](pa4%20Notes%20as%20constructions%20of%20knowledge.md)

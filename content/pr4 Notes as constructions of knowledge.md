@@ -15,7 +15,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Notes as structures of knowledge](!5%20Notes%20as%20structures%20of%20knowledge.md)
+ > Next: [Notes as structures of knowledge](pr5%20Notes%20as%20structures%20of%20knowledge.md)
 
 ---
 
@@ -24,4 +24,4 @@ enableToc: false
  > 
  > While this attention to the representational quality of notes is rarely considered objective, many feminist scholars have raised concern with exactly who gets to make such representations, of what, and how they become formed. And part of that questioning means recognizing the subjective entanglement of researchers, our research—including our notes—and the world around us.
 
-[📖](@4%20Notes%20as%20constructions%20of%20knowledge.md)
+[📖](pa4%20Notes%20as%20constructions%20of%20knowledge.md)

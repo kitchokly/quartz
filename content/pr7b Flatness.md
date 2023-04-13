@@ -8,13 +8,13 @@ enableToc: false
   * Scales with the system
   * Encourages connection
 * Notes are retrieved primarily through contextual relations
-  * Finding notes based on the way they link to other notes (see [Interconnection](!7c%20Interconnection.md))
+  * Finding notes based on the way they link to other notes (see [Interconnection](pr7c%20Interconnection.md))
   * Digital search and metadata can be helpful to find specific content if needed
 
 # 
 
  > 
- > Next: [Interconnection](!7c%20Interconnection.md)
+ > Next: [Interconnection](pr7c%20Interconnection.md)
 
 ---
 
@@ -28,4 +28,4 @@ enableToc: false
  > This can seem overwhelming, especially if you’re making your notes granular which increases their number. But primarily the advantage of flatness is that it encourages you to *find your notes through their relations to others, rather than externally imposed categories introduced by containers.* And if you’re using digital tools, search and metadata make it pretty easy to find anything specific.
  > Of course, there are always exceptions—sometimes you want information to be siloed! But flattening notes by putting them into one container encourages you put your ideas into context with others, enabling the generation of new and unexpected ideas.
 
-[📖](@6b%20Principle%20of%20flatness.md)
+[📖](pa6b%20Principle%20of%20flatness.md)

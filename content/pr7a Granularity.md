@@ -9,12 +9,12 @@ enableToc: false
 * It’s difficult to draw boundaries around a note/idea
   * If it’s too granular, the note doesn’t stand on its own
   * If it’s not granular enough, it’s harder to make connections between ideas
-* Reviewing and revising helps find the sweet spot (see [4. Iteration](!7d%20Iteration.md))
+* Reviewing and revising helps find the sweet spot (see [4. Iteration](pr7d%20Iteration.md))
 
 # 
 
  > 
- > Next: [Flatness](!7b%20Flatness.md)
+ > Next: [Flatness](pr7b%20Flatness.md)
 
 ---
 
@@ -25,4 +25,4 @@ enableToc: false
  > 
  > This principle can be difficult to enact because it requires drawing boundaries around what makes up a complete idea from a complete source, concepts which have blurry boundaries to begin with. Overly-granular notes tend to not have enough information to stand on their own, but if you’re not granular enough, it’s really hard to link these notes to others. Finding the sweet spot in note length is part of the process of building a networked note-taking system. Fortunately, as we’ll see, the principle of iteration means there’s always opportunity to review and revise notes as you go.
 
-[📖](@6a%20Principle%20of%20atomicity.md)
+[📖](pa6a%20Principle%20of%20atomicity.md)

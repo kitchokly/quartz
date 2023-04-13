@@ -17,4 +17,4 @@ By focusing on writing notes as not just a tool but a method which always involv
 # 
 
  > 
- > [👈 Notes as representations of knowledge](@3%20Notes%20as%20representations%20of%20knowledge.md) | [Notes as structures of knowledge 👉](@5%20Notes%20as%20structures%20of%20knowledge.md)
+ > [👈 Notes as representations of knowledge](pa3%20Notes%20as%20representations%20of%20knowledge.md) | [Notes as structures of knowledge 👉](pa5%20Notes%20as%20structures%20of%20knowledge.md)

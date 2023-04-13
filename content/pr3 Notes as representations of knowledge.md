@@ -12,7 +12,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Notes as constructions of knowledge](!4%20Notes%20as%20constructions%20of%20knowledge.md)
+ > Next: [Notes as constructions of knowledge](pr4%20Notes%20as%20constructions%20of%20knowledge.md)
 
 ---
 
@@ -23,4 +23,4 @@ enableToc: false
  > 
  > This makes sense: Notes represent what the researcher observes as relevant about an object of study, and are used to inform subsequent analysis of that object once it is no longer within view.
 
-[📖](@3%20Notes%20as%20representations%20of%20knowledge.md)
+[📖](pa3%20Notes%20as%20representations%20of%20knowledge.md)

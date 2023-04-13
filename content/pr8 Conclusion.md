@@ -5,11 +5,11 @@ enableToc: false
 
 * Note-taking has always been a research method
 * Understanding note-taking as a feminist method encourages us to think about…
-  * [how we represent sources](!3%20Notes%20as%20representations%20of%20knowledge.md)
-  * [what we consider note-worthy](!4%20Notes%20as%20constructions%20of%20knowledge.md)
-  * [how we bring ideas into relation to produce knowledge](!5%20Notes%20as%20structures%20of%20knowledge.md)
+  * [how we represent sources](pr3%20Notes%20as%20representations%20of%20knowledge.md)
+  * [what we consider note-worthy](pr4%20Notes%20as%20constructions%20of%20knowledge.md)
+  * [how we bring ideas into relation to produce knowledge](pr5%20Notes%20as%20structures%20of%20knowledge.md)
 * There is no one-size-fits-all networked note-taking system
-  * These [4 principles](!7%204%20Principles%20of%20a%20feminist%20networked%20note-taking%20system.md) are only a guideline
+  * These [4 principles](pr7%204%20Principles%20of%20a%20feminist%20networked%20note-taking%20system.md) are only a guideline
   * A good system should be flexible to work with your needs
 
 # 
@@ -30,4 +30,4 @@ enableToc: false
 
 Thank you.
 
-[📖](@7%20Conclusion.md)
+[📖](pa7%20Conclusion.md)

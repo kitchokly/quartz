@@ -19,7 +19,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Feminist networked note-taking?](!6%20Feminist%20networked%20note-taking%3F.md)
+ > Next: [Feminist networked note-taking?](pr6%20Feminist%20networked%20note-taking%3F.md)
 
 ---
 
@@ -34,4 +34,4 @@ enableToc: false
  > 
  > This technique isn’t exactly new--scholars have actually been using tools like index cards with unique reference IDs to make links across their notes since at least the 18th century. And as Johanna Drucker reminds us, books have always been nonlinear, weaving connections between and through text, commentary, and paratext.
 
-[📖](@5%20Notes%20as%20structures%20of%20knowledge.md)
+[📖](pa5%20Notes%20as%20structures%20of%20knowledge.md)

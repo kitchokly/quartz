@@ -10,7 +10,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Iteration](!7d%20Iteration.md)
+ > Next: [Iteration](pr7d%20Iteration.md)
 
 ---
 
@@ -21,4 +21,4 @@ This brings us to linking notes. The principle of interconnection is the core of
 
 This means linking notes liberally to create flexible and even novel contexts for ideas and concepts—the creative process of knowledge production. Linking our notes makes us rethink research as a process of relationship building, rather than just recording observations and literature.
 
-[📖](@6c%20Principle%20of%20interconnection.md)
+[📖](pa6c%20Principle%20of%20interconnection.md)
