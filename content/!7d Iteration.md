@@ -10,7 +10,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Conclusion 👉](!9%20Conclusion.md)
+ > Next: [Conclusion](!8%20Conclusion.md)
 
 ---
 

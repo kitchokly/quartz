@@ -1,5 +1,5 @@
 ---
-title: 📽️ The Issue (2/3)
+title: 📽️ Framing note-taking (2/3)
 enableToc: false
 ---
 
@@ -15,7 +15,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Information organization shapes knowledge production 👉](!5%20Information%20organization%20shapes%20knowledge%20production.md)
+ > Next: [Notes as structures of knowledge](!5%20Notes%20as%20structures%20of%20knowledge.md)
 
 ---
 

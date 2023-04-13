@@ -13,4 +13,5 @@ Although notes are rarely framed within the context of social justice, they can 
 
 # 
 
- >  [🏠 Table of Contents](@1%20Developing%20a%20feminist%20note-taking%20system.md) | [Notes as representations of knowledge 👉](@3%20Notes%20as%20representations%20of%20knowledge.md)
+ > 
+ > [🏠 Table of Contents](@1%20Developing%20a%20feminist%20note-taking%20system.md) | [Notes as representations of knowledge 👉](@3%20Notes%20as%20representations%20of%20knowledge.md)
