@@ -17,7 +17,7 @@ enableToc: false
 
 # 
 
-Next: [4 Principles of a feminist networked note-taking system 👉](%F0%9F%93%BD%EF%B8%8F8%204%20Principles%20of%20a%20feminist%20networked%20note-taking%20system.md)
+Next: [4 Principles of a feminist networked note-taking system 👉](!8%204%20Principles%20of%20a%20feminist%20networked%20note-taking%20system.md)
 
 ---
 
@@ -32,4 +32,4 @@ Next: [4 Principles of a feminist networked note-taking system 👉](%F0%9F%93%B
  > 
  > This is to say that these principles are not attached to a particular technology, although different technologies will have different affordances which shape how they can be put into practice, for better or worse.
 
-[📖](%F0%9F%93%966%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
+[📖](@6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)

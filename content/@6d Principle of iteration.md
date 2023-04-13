@@ -14,10 +14,10 @@ The liveliness of notes and the need to maintain them brings a number of PKM con
 # 
 
  > 
- > [👈 Four principles overview](📖6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
+ > [👈 Four principles overview](@6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
 
  > 
- > 1. [Principle of atomicity 👉 ](📖6a%20Principle%20of%20atomicity.md)
- > 1. [Principle of flatness 👉 ](📖6b%20Principle%20of%20flatness.md)
- > 1. [Principle of interconnection 👉 ](📖6c%20Principle%20of%20interconnection.md)
+ > 1. [Principle of atomicity 👉 ](@6a%20Principle%20of%20atomicity.md)
+ > 1. [Principle of flatness 👉 ](@6b%20Principle%20of%20flatness.md)
+ > 1. [Principle of interconnection 👉 ](@6c%20Principle%20of%20interconnection.md)
  > 1. Principle of iteration

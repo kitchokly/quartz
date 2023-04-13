@@ -3,7 +3,7 @@ title: 📖 On format
 enableToc: false
 ---
 
-The strength of a feminist note-taking system, as [I will come to argue](📖2%20Introduction.md), is its networked qualities—a strength that is not necessarily shared with essays or linear arguements. This essay is like most in that it too is fairly linear. However, I have structured it here as a network to demonstrate some of the technical possibilities of a feminist note-taking system. 
+The strength of a feminist note-taking system, as [I will come to argue](@2%20Introduction.md), is its networked qualities—a strength that is not necessarily shared with essays or linear arguements. This essay is like most in that it too is fairly linear. However, I have structured it here as a network to demonstrate some of the technical possibilities of a feminist note-taking system. 
 
 I hope that the differences in genre (essay vs note) will not interfere with the argument I am trying to make here. You can also always download this essay as a PDF [here](https://kitchokly.com/wp-content/uploads/2022/12/WMST601_Final_KChokly.pdf).
 
@@ -14,4 +14,4 @@ Thanks for reading!
 # 
 
  > 
- > [🏠 Table of Contents](%F0%9F%93%961%20Developing%20a%20feminist%20note-taking%20system.md)
+ > [🏠 Table of Contents](@1%20Developing%20a%20feminist%20note-taking%20system.md)

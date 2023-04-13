@@ -11,7 +11,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Agenda  👉](%F0%9F%93%BD%EF%B8%8F2%20Agenda.md)
+ > Next: [Agenda  👉](!2%20Agenda.md)
 
 ---
 
@@ -26,6 +26,6 @@ enableToc: false
  > 
  > This brought me into researching some of the histories and methodological principles of note-taking. And considering how much of what I’ve found in these spaces emerge from academia’s history of colonialism and today’s always-on productivity culture, I wanted to see if I could take some of these principles while remaining oriented towards social justice.
 
-Read the paper [Developing a feminist note-taking system](%F0%9F%93%961%20Developing%20a%20feminist%20note-taking%20system.md), or click the link with the 📖 icon at the bottom of each page to go directly to the paper’s relevant section, if there is one.
+Read the paper [Developing a feminist note-taking system](@1%20Developing%20a%20feminist%20note-taking%20system.md), or click the link with the 📖 icon at the bottom of each page to go directly to the paper’s relevant section, if there is one.
 
-[📖](%F0%9F%93%962%20Introduction.md)
+[📖](@2%20Introduction.md)

@@ -27,4 +27,4 @@ Inspired by this history, I see an opportunity to bring a vision of social justi
 # 
 
  > 
- > [👈 Notes as constructions of knowledge](📖4%20Notes%20as%20constructions%20of%20knowledge.md) | [Four principles of a feminist note-taking methodology 👉](📖6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
+ > [👈 Notes as constructions of knowledge](@4%20Notes%20as%20constructions%20of%20knowledge.md) | [Four principles of a feminist note-taking methodology 👉](@6%20Four%20principles%20of%20a%20feminist%20note-taking%20methodology.md)
