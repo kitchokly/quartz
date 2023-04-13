@@ -3,7 +3,7 @@ title: 📝 Home
 enableToc: false
 ---
 
-*A feminist experiment with academic note-taking.*
+*A feminist experiment with networked note-taking.*
 
 [Kit Chokly](https://kitchokly.com), PhD Student in Communication Studies, McGill University
 
