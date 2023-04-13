@@ -45,9 +45,10 @@ enableToc: false
 [Marin, L., & Sturm, S. (2021).](References/Marin%20&%20Sturm,%202021.md) “Why aren’t you taking any notes?” On note-taking as a collective gesture. *Educational Philosophy and Theory*, *53*(13), 1399–1406. [https://doi.org/10.1080/00131857.2020.1744131](https://doi.org/10.1080/00131857.2020.1744131)
 
 [Matuschak, A. (n.d.-a).](References/Matuschak,%20nd-a.md) *Evergreen notes*. Andyʼs working notes. Retrieved December 4, 2022, from [https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
-[Matuschak, A. (n.d.-b).](References/Matuschak,%20nd-b.md) *Evergreen notes should be atomic*. Andyʼs working notes. Retrieved December 4, 2022, from [https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)
 
+[Matuschak, A. (n.d.-b).](References/Matuschak,%20nd-b.md) *Evergreen notes should be atomic*. Andyʼs working notes. Retrieved December 4, 2022, from [https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)
 [Matuschak, A. (n.d.-c).](References/Matuschak,%20nd-c.md) *Evergreen notes should be densely linked*. Andyʼs working notes. Retrieved December 4, 2022, from [https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)
+
 [McKinney, C. (2020).](References/McKinney,%202020.md) *Information activism: A queer history of lesbian media technologies*. Duke University Press.
 
 [Milo, N. (n.d.).](References/Milo,%20nd.md) *MOCs Overview*. LYT Kit. Retrieved December 5, 2022, from [https://notes.linkingyourthinking.com/Cards/MOCs+Overview](https://notes.linkingyourthinking.com/Cards/MOCs+Overview)
