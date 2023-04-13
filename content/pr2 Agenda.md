@@ -15,7 +15,7 @@ enableToc: false
    1. [Notes as representations of knowledge](pr3%20Notes%20as%20representations%20of%20knowledge.md)
    1. [Notes as constructions of knowledge](pr4%20Notes%20as%20constructions%20of%20knowledge.md)
    1. [Notes as structures of knowledge](pr5%20Notes%20as%20structures%20of%20knowledge.md)
-1. [Feminist networked note-taking?](pr6%20Feminist%20networked%20note-taking%3F.md)
+1. [Towards feminist networked note-taking](pr6%20Towards%20feminist%20networked%20note-taking.md)
 1. [4 Principles of a feminist networked note-taking system](pr7%204%20Principles%20of%20a%20feminist%20networked%20note-taking%20system.md)
    1. [Granularity](pr7a%20Granularity.md)
    1. [Flatness](pr7b%20Flatness.md)

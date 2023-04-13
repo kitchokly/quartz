@@ -9,6 +9,7 @@ enableToc: false
 
  > 
  > \[!info\] Networked notetaking
+ > 
  > Finding ways to make connections within and between the variety of notes we take. These connections are then used to contribute to producing knowledge beyond the sum total of individual notes.
 
 * Not a new technique
@@ -19,7 +20,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Feminist networked note-taking?](pr6%20Feminist%20networked%20note-taking%3F.md)
+ > Next: [Feminist networked note-taking?](pr6%20Towards%20feminist%20networked%20note-taking.md)
 
 ---
 

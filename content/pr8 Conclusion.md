@@ -25,9 +25,7 @@ enableToc: false
  > Note-taking has always been a part of our research methods and therefore worth doing with intention. Understanding note-taking as a feminist method asks that we think about not just what we consider note-worthy, but also how we bring these ideas into relation with others throughout our research process.
  > 
  > Also—a good note-taking system is informed by the person who uses it. Everyone works differently and has different research goals—there is definitely no one-size-fits all for networked note-taking. If anything, though, I think this underlines the possibilities of networked note-taking as an interdisciplinary feminist method, one which I think can support a huge variety of research dedicated to producing more socially just knowledges.
-
- 
-
-Thank you.
+ > 
+ > Thank you.
 
 [📖](pa7%20Conclusion.md)
