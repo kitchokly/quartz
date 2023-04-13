@@ -24,7 +24,7 @@ enableToc: false
  > 
  > So my notes generally end up looking like this—a couple of boxes and many, many folders,  containing notes that *can and do* relate to each other but I’m not sure how. This meant I was doing a lot of repetitive research and missing things in my reading which I had actually already encountered before.
  > 
- > This brought me into researching some of the histories and methodological principles of note-taking. And considering how much of what I’ve found in these spaces emerge from academia’s history of colonialism and today’s always-on productivity culture, I wanted to see if I could use some of these principles while remaining oriented towards social justice. How does note-taking shape our knowledge production? How can we use note-taking with intention?
+ > This brought me into researching some of the histories and methodological principles of note-taking. And considering how much of what I’ve found in these spaces emerge from academia’s Eurocentric history and today’s always-on productivity culture, I wanted to see if I could use some of these principles while remaining oriented towards social justice. How does note-taking shape our knowledge production? How can we use note-taking with intention?
 
 Read the paper this talk is based on  [from the beginning here](pa1%20Developing%20a%20feminist%20note-taking%20system.md). Or, click the link with the 📖 icon at the bottom of each page to go directly to the paper’s relevant section, if there is one.
 
