@@ -1,5 +1,5 @@
 ---
-title: 📽️ Feminist networked note-taking?
+title: 📽️ Towards feminist networked note-taking
 enableToc: false
 ---
 

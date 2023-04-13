@@ -20,7 +20,7 @@ enableToc: false
 # 
 
  > 
- > Next: [Feminist networked note-taking?](pr6%20Towards%20feminist%20networked%20note-taking.md)
+ > Next: [Towards feminist networked note-taking](pr6%20Towards%20feminist%20networked%20note-taking.md)
 
 ---
 
