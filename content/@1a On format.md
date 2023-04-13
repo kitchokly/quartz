@@ -13,5 +13,4 @@ Thanks for reading!
 
 # 
 
- > 
  > [🏠 Table of Contents](@1%20Developing%20a%20feminist%20note-taking%20system.md)
