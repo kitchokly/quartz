@@ -1,9 +1,7 @@
 ---
-title: 🏠 Developing a feminist note-taking system
+title: 📓
 enableToc: false
 ---
-
-# 
 
 *An exploration of everyday academic methods*
 
@@ -15,7 +13,7 @@ enableToc: false
 
 ## On format
 
-The strength of a feminist note-taking system, [as I argue](pa2%20Introduction.md), is its networked qualities—a strength that is not necessarily shared with generally linear essays or presentations. This work is like most in that it too is fairly linear. However, I have structured it here as a network to demonstrate some of the technical possibilities of a feminist networked note-taking system. I hope that the differences in genre (essay or presentation vs note) will not interfere with the argument I am trying to make here. You can also always download the essay as a PDF [here](https://kitchokly.com/wp-content/uploads/2022/12/WMST601_Final_KChokly.pdf).
+The strength of a feminist note-taking system, [as I argue](pa2%20Introduction.md), is its networked qualities—a strength that is not necessarily shared with generally linear essays or presentations. This work is like most in that it too is fairly linear. However, I have structured it here as a network to demonstrate some of the technical possibilities of a feminist networked note-taking system. I hope that the differences in genre (essay or presentation vs note) will not interfere with the argument I am trying to make here. You can also always [download the paper as a PDF here](https://kitchokly.com/wp-content/uploads/2023/05/KChokly_NetworkedNote-takingAsFeministResearchMethod.pdf).
 
 Please click around, explore, and imagine the possibilities this format might afford you and your own note-taking practice. Thanks for reading!
 

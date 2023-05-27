@@ -18,9 +18,9 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  A feminist experiment with networked note-taking.
+  An exploration of everyday academic methods.
 page_title:
-  "🏠 Developing a feminist note-taking system"
+  "📓"
 links:
   - link_name: Website
     link: https://kitchokly.com
