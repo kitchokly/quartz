@@ -3,8 +3,6 @@ title: 📽️ Developing a feminist note-taking system
 enableToc: false
 ---
 
-# 
-
 *An exploration of everyday academic methods*
 
 [Kit Chokly](https://kitchokly.com), PhD Student in Communication Studies, McGill University

@@ -3,12 +3,6 @@ title: 📽️ 1. Flatness
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 ## [📖 Flatness means storing notes in as few containers necessary](pa6b%20Flatness.md)
 
 * Folders/notebooks/milk crates can silo notes into arbitrary structures

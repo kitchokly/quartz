@@ -3,12 +3,6 @@ title: 📽️ 4. Iteration
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 ## [📖 Review and re-evaluate notes when re-encountered](pa6d%20Iteration.md)
 
 * Add new content

@@ -3,12 +3,6 @@ title: 📽️ Personal Knowledge Management (PKM)
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 * Constellation of online communities
 * Largely focused on [📖 networked note-taking](pa5%20Notes%20as%20structures%20of%20knowledge.md)
   * Not just taking notes, but resurfacing them in new contexts

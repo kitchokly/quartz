@@ -3,12 +3,6 @@ title: 📽️ A disconnect between intended and future uses of notes
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 ## How can I bring my notes with me in my work?
 
 ## Existing literature on note-taking

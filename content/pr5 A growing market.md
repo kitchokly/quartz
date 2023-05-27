@@ -3,12 +3,6 @@ title: 📽️ A growing market
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 * PKM is a growing market
 * Aims to solve “information overload”
 * Draws connections between note-taking systems and technologies with the human brain

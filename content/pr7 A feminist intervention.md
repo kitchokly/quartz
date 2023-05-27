@@ -3,12 +3,6 @@ title: 📽️ A feminist intervention
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 * PKM treats technologies, systems, and the knowledges they contribute to producing as value-neutral 
 * Feminist scholars have repeatedly shown this is not the case
   * Knowledge production is shaped by power

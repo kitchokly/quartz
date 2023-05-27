@@ -3,12 +3,6 @@ title: 📽️ Building a feminist note-taking system
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 ## The 4 “nodes” of this system:
 
 1. [📖 Flatness](pa6b%20Flatness.md)

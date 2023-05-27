@@ -3,12 +3,6 @@ title: 📽️ 2. Interconnection
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 ## [📖 Interconnection means linking notes liberally](pa6c%20Interconnection.md)
 
 * Linking notes makes new connections resurfaces old notes in relation to new ones

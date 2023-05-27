@@ -3,12 +3,6 @@ title: 📽️ The milk crate problem
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 ![A photograph of two black milk crates stuffed full of notebooks, looseleaf paper, and manilla folders.](MilkCrates.jpg)
 
 Two milk crates stuffed with notebooks, file folders, and envelopes—symptoms of [📖 my problem with note-taking as a grad student.](pa2%20Introduction.md)

@@ -3,12 +3,6 @@ title: 📽️ 3. Atomicity
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 ## [📖 Atomicity means breaking notes up as much as possible.](pa6a%20Atomicity.md)
 
 * Dividing ideas into their own notes makes them easier to meaningfully link to other concepts ([Tietze, 2013](References/Tietze,%202013.md))

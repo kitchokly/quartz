@@ -3,12 +3,6 @@ title: 📽️ Reflections
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 * Wrote >500 notes and ~250,000 words since September on readings, lectures, data, and day-to-day thoughts 
 * The biggest change: My approach to writing
   * Taking note-taking seriously means shifting from instrumental writing to careful and creative writing

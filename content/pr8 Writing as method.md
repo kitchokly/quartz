@@ -3,12 +3,6 @@ title: 📽️ Writing as method
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 * Writing is a process which positions the writer “in conversation with the world, with other writing, and, reflexively, with itself” ([Gibbs, 2007](References/Gibbs,%202007.md), p. 224), making it “a mode of inquiry in its own right” (p. 222)
 * Note-taking has always been a research method
 * And networked note-taking encourages reflection on [📖 how we bring ideas into relation to produce knowledge in our writng](pa5%20Notes%20as%20structures%20of%20knowledge.md)

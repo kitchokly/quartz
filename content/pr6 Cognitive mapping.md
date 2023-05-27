@@ -3,12 +3,6 @@ title: 📽️ Cognitive mapping
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 * “Information overload” goes back at to least the 40s
   * Vannevar Bush’s memex ([1945](References/Bush,%201945.md)) 
 * Information storage technologies to the human brains are found in 19th century writing

@@ -3,12 +3,6 @@ title: 📽️ Thank you
 enableToc: false
 ---
 
-
- > 
- > [rb.gy/294ym](https://rb.gy/294ym)
-
-# 
-
 ## Writing is a space for feminist intervention, starting with the notes we take.
 
 * Talk to me about your note-taking practices! 
