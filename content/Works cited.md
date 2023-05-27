@@ -10,17 +10,14 @@ enableToc: false
 [Ang, N. (2021, August 29).](References/Ang,%202021.md) *Types of Notes in a PKM explained with a Gardening Analogy (Part I)*. Nick Ang. [https://www.nickang.com/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/](https://www.nickang.com/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/)
 
 [Blair, A. M. (2010).](References/Blair,%202010.md) Note-taking as information management. In *Too Much to Know: Managing Scholarly Information before the Modern Age*. Yale University Press. [https://doi.org/10.12987/9780300168495](https://doi.org/10.12987/9780300168495)
-
 [Broadwater, D. W. (2003).](References/Broadwater,%202003.md) *Note taking: Lessons to imrove research skills and test scores, Grades 4-8*.
 
 [Clark, W. (2008).](References/Clark,%202008.md) *Academic Charisma and the Origins of the Research University*. University of Chicago Press. [https://doi.org/10.7208/9780226109237](https://doi.org/10.7208/9780226109237)
 
 [Cone, M. (2022).](References/Cone,%202022.md) *Markdown Guide*. [https://www.markdownguide.org/](https://www.markdownguide.org/)
-
 [References/Drucker,  2014](References/Drucker,%20%202014.md). Interface and Interpretation. In *Graphesis: Visual forms of knowledge production* (pp. 138–179). Harvard University Press.
 
 [Dubois, S. (n.d.).](References/Dubois,%20nd.md) *Personal Knowledge Management Journal*. Medium. Retrieved December 5, 2022, from [https://pkmjournal.com](https://pkmjournal.com)
-
 [Garland-Thomson, R. (2002).](References/Garland-Thomson,%202002.md) Integrating Disability, Transforming Feminist Theory. *NWSA Journal*, *14*, 1–32. [https://www.jstor.org/stable/4316922](https://www.jstor.org/stable/4316922)
 
 [Gibbs, A. (2007).](References/Gibbs,%202007.md) Writing as Method: Attunement, Resonance, and Rhythm. In B. T. Knudsen & C. Stage (Eds.), *Affective Methodologies* (pp. 222–236). Palgrave Macmillan UK. [https://doi.org/10.1057/9781137483195_11](https://doi.org/10.1057/9781137483195_11)
@@ -32,13 +29,16 @@ enableToc: false
 [Gunaratnam, Y., & Hamilton, C. (2017).](References/Gunaratnam%20&%20Hamilton,%202017.md) Introduction the Wherewithal of Feminist Methods. *Feminist Review*, *115*(1), 1–12. [https://doi.org/10.1057/s41305-017-0023-5](https://doi.org/10.1057/s41305-017-0023-5)
 
 [Haraway, D. (1988).](References/Haraway,%201988.md) Situated knowledges: The science question in feminism and the privilege of partial perspective. *Feminist Studies; College Park, Md.*, *14*(3), 575–599. [http://search.proquest.com/docview/1295968804/citation/B11300037EF241EFPQ/1](http://search.proquest.com/docview/1295968804/citation/B11300037EF241EFPQ/1)
-[aHartsock, N. C. M. (1985).](References/Hartsock,%201985.md) *Money, Sex, and Power: Toward a Feminist Historical Materialism* (Reprint edition). Northeastern Univ Pr.
+
+[Hartsock, N. C. M. (1985).](References/Hartsock,%201985.md) *Money, Sex, and Power: Toward a Feminist Historical Materialism* (Reprint edition). Northeastern Univ Pr.
 
 [Hemmings, C. (2015).](References/Hemmings,%202015.md) Affect and Feminist Methodology, Or What Does It Mean to be Moved? In D. Sharma & F. Tygstrup (Eds.), *Structures of Feeling* (pp. 147–158). De Gruyter. [https://doi.org/10.1515/9783110365481.147](https://doi.org/10.1515/9783110365481.147)
 
 [Hill Collins, P. (1989).](References/Hill%20Collins,%201989.md) The Social Construction of Black Feminist Thought. *Signs*, *14*(4), 745–773.
 
 [Jenks, B. (@BryanJenksTech) (n.d.).](References/Jenks,%20nd.md) *Bryan Jenks*. YouTube. Retrieved December 5, 2022, from [https://www.youtube.com/c/BryanJenksTech](https://www.youtube.com/c/BryanJenksTech)
+
+[Krajewski, M. (2011).](References/Krajewski,%202011.md) *Paper machines: About cards & catalogs, 1548-1929* (P. Krapp, Trans.). MIT Press.
 
 [Konik, E. (n.d.).](References/Konik,%20nd.md) *Obsidian Roundup* \[Newsletter\]. Obsidian Roundup. Retrieved December 5, 2022, from [https://www.obsidianroundup.org/](https://www.obsidianroundup.org/)
 
@@ -47,6 +47,7 @@ enableToc: false
 [Matuschak, A. (n.d.-a).](References/Matuschak,%20nd-a.md) *Evergreen notes*. Andyʼs working notes. Retrieved December 4, 2022, from [https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
 
 [Matuschak, A. (n.d.-b).](References/Matuschak,%20nd-b.md) *Evergreen notes should be atomic*. Andyʼs working notes. Retrieved December 4, 2022, from [https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)
+
 [Matuschak, A. (n.d.-c).](References/Matuschak,%20nd-c.md) *Evergreen notes should be densely linked*. Andyʼs working notes. Retrieved December 4, 2022, from [https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)
 
 [McKinney, C. (2020).](References/McKinney,%202020.md) *Information activism: A queer history of lesbian media technologies*. Duke University Press.

@@ -1,22 +1,35 @@
 ---
-title: 📝 Home
+title: 🏠 Developing a feminist note-taking system
 enableToc: false
 ---
 
-*A feminist experiment with networked note-taking.*
+# 
+
+*An exploration of everyday academic methods*
 
 [Kit Chokly](https://kitchokly.com), PhD Student in Communication Studies, McGill University
 
-## 📖 The paper
+## [📖 Read the paper](pa1%20table%20of%20contents.md)
 
-*[Developing a feminist note-taking system](pa1%20Developing%20a%20feminist%20note-taking%20system.md)*
+## [📽️ See the presentation](pr1%20Note-taking%20as%20an%20interdisciplinary%20feminist%20method.md)
 
-## 📽️ The presentation
+## On format
 
-April 13, 2023, [McGill Feminist Research Colloquium](https://frcmcgill.blogspot.com/p/2023-schedule-and-abstracts.html)
+The strength of a feminist note-taking system, [as I argue](pa2%20Introduction.md), is its networked qualities—a strength that is not necessarily shared with generally linear essays or presentations. This work is like most in that it too is fairly linear. However, I have structured it here as a network to demonstrate some of the technical possibilities of a feminist networked note-taking system. I hope that the differences in genre (essay or presentation vs note) will not interfere with the argument I am trying to make here. You can also always download the essay as a PDF [here](https://kitchokly.com/wp-content/uploads/2022/12/WMST601_Final_KChokly.pdf).
 
-* *[Note-taking as an interdisciplinary feminist method](pr1%20Note-taking%20as%20an%20interdisciplinary%20feminist%20method.md)*
+Please click around, explore, and imagine the possibilities this format might afford you and your own note-taking practice. Thanks for reading!
 
-## 👋 Contact
+## How to navigate this site
 
-Send me an email at kit.chokly@mail.mcgill.ca (most reliable) or follow me on [Mastodon](https://zirk.us/@kitchokly) (less reliable) or [Twitter](https://twitter.com/kitchokly) (least reliable). Thanks for reading!
+* Follow along linearly
+  * Each page includes links to the next page in a linear fashion. 
+* Play with the network
+  * The backlinks pane lists the pages which link to the page you are currently on.
+  * The interactive graph shows all pages which directly connected to the page you are currently on.
+* Get reoriented
+  * Return to this main page by clicking [🏠 Developing a feminist note-taking system](/) in the header of the site or the labelled node in the interactive graph.
+  * Nodes marked with a book emoji (📖) are pages from the [original paper](pa1%20table%20of%20contents.md), while nodes marked with a camera emoji (📽️) are a part of [the presentation](pr1%20Note-taking%20as%20an%20interdisciplinary%20feminist%20method.md).
+
+## Contact
+
+I’d love to hear about your own integrations of note-taking and writing in your research methods. Feel free to send me an email at kit.chokly@mail.mcgill.ca, or follow me on [Mastodon](https://zirk.us/@kitchokly) or [Twitter](https://twitter.com/kitchokly). You can also learn more about my other work on trans media studies on my website at [kitchokly.com](https://kitchokly.com).
