@@ -12,7 +12,9 @@ Working with ideas is where the strength of the network happens (see Figure 1). 
 Atomicity can be difficult to enact because it requires drawing boundaries around what makes up a complete idea, a concept which has blurry boundaries to begin with. Overly-atomized notes do not stand on their own and require too much traversing across the system to understand, while notes which are not atomized enough are difficult to link to others. In general, however, it is helpful to keep in mind that [iteration](pa6d%20Iteration.md) encourages reviewing and revising notes as they are added to the system, presenting an opportunity to grow or divide a note as appropriate.
 
 Figure 1. *An atomic note in relation to others*
-![A network graph of nodes. The key node is named "interface" and is connected to nearly a dozen others, including examples like "Human Computer Interaction (HCI)", "cyborg," and "@LightEtAl2018.".png](A%20network%20graph%20of%20nodes.%20The%20key%20node%20is%20named%20"interface"%20and%20is%20connected%20to%20nearly%20a%20dozen%20others,%20including%20examples%20like%20"Human%20Computer%20Interaction%20%28HCI%29",%20"cyborg,"%20and%20"@LightEtAl2018.".png)
+
+![A network graph of nodes. The key node is named "interface" and is connected to nearly a dozen others, including examples like "Human Computer Interaction (HCI)", "cyborg," and "@LightEtAl2018."](Figure1.png)
+
 *Note.* A screenshot of my notes rendered through Obsidian’s graph view. The highlighted node is a note titled “interface” and each line represents a link to another note.
 
 # 

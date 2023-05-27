@@ -9,7 +9,7 @@ enableToc: false
 
 # 
 
-![A photograph of two black milk crates stuffed full of notebooks, looseleaf paper, and manilla folders..jpg](A%20photograph%20of%20two%20black%20milk%20crates%20stuffed%20full%20of%20notebooks,%20looseleaf%20paper,%20and%20manilla%20folders..jpg)
+![A photograph of two black milk crates stuffed full of notebooks, looseleaf paper, and manilla folders.](MilkCrates.jpg)
 
 Two milk crates stuffed with notebooks, file folders, and envelopes—symptoms of [📖 my problem with note-taking as a grad student.](pa2%20Introduction.md)
 

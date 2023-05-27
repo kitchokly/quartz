@@ -14,7 +14,7 @@ enableToc: false
 * Dividing ideas into their own notes makes them easier to meaningfully link to other concepts ([Tietze, 2013](References/Tietze,%202013.md))
 * Retain links to sources
 
-![A network graph of nodes. The key node is named "interface" and is connected to nearly a dozen others, including examples like "Human Computer Interaction (HCI)", "cyborg," and "@LightEtAl2018.".png](A%20network%20graph%20of%20nodes.%20The%20key%20node%20is%20named%20"interface"%20and%20is%20connected%20to%20nearly%20a%20dozen%20others,%20including%20examples%20like%20"Human%20Computer%20Interaction%20%28HCI%29",%20"cyborg,"%20and%20"@LightEtAl2018.".png)
+![Figure1.png](Figure1.png)
 
 # 
 

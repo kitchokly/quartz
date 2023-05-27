@@ -14,7 +14,7 @@ enableToc: false
 * Linking notes makes new connections resurfaces old notes in relation to new ones
 * Treats research as a creative process of relationship-building
 
-![A screenshot fro Obsidian of a note titled "social construction of technology (SCOT)," which describes the theory with links to other concepts such as "relevant social group" and sources such as "@PinchBijker1985.".png](A%20screenshot%20fro%20Obsidian%20of%20a%20note%20titled%20"social%20construction%20of%20technology%20%28SCOT%29,"%20which%20describes%20the%20theory%20with%20links%20to%20other%20concepts%20such%20as%20"relevant%20social%20group"%20and%20sources%20such%20as%20"@PinchBijker1985.".png)
+![Figure3.png](Figure3.png)
 
 # 
 

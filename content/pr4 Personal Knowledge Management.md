@@ -16,7 +16,8 @@ enableToc: false
   * Aims to use notes to produce new knowledges through their connections
 * Many different systems and tools being used
   * Zettelkasten, Notion, The Archive, Roam, Obsidian…
-    ![Five examples of networked note-taking software, include Zettelkasten, Notion, The Archive, Obsidian, and Roam..png](Five%20examples%20of%20networked%20note-taking%20software,%20include%20Zettelkasten,%20Notion,%20The%20Archive,%20Obsidian,%20and%20Roam..png)
+
+![Five examples of networked note-taking software, include Zettelkasten, Notion, The Archive, Obsidian, and Roam.](NoteTakingSoftware.png)
 
 # 
 

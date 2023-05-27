@@ -13,7 +13,7 @@ enableToc: false
 * Aims to solve “information overload”
 * Draws connections between note-taking systems and technologies with the human brain
 
-![A screenshot from the Building a Second Brain Website, which features a headline reading "A proven method to organize your digital life and unlike your creative potential.".png](A%20screenshot%20from%20the%20Building%20a%20Second%20Brain%20Website,%20which%20features%20a%20headline%20reading%20"A%20proven%20method%20to%20organize%20your%20digital%20life%20and%20unlike%20your%20creative%20potential.".png)
+![A screenshot from the Building a Second Brain Website. The headline reads "A proven method to organize your digital life and unlike your creative potential." The byline reads “Get the Second Brain Quickstart Guide to start building your Second Brain, increase your productivity, and lead a more fulfilling life with more ease and less stress. Below, a bright yellow button reads “Yes, I want to build my second brain.” On the right side of the screen is an embedded YouTube video listed as “Building a Second Brain: Teaser Trailer.”](BASBScreenshot.png)
 [Source](https://www.buildingasecondbrain.com)
 
 # 

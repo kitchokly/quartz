@@ -15,7 +15,9 @@ Here, TallBear is referring to the relations of researchers and other people inv
 The foundation of Luhmann’s system involved finding ways to link notes via analog mean. Markdown, however, is a language which formats plan text and enables linking between files. Simply encasing a text string within square brackets transforms it into a link to any other note within the container which shares the string as its title. This allows us to make a link to another idea within a sentence, much like the links found on Wikipedia.
 
 Figure 3. *A note with links*
-![A screenshot fro Obsidian of a note titled "social construction of technology (SCOT)," which describes the theory with links to other concepts such as "relevant social group" and sources such as "@PinchBijker1985.".png](A%20screenshot%20fro%20Obsidian%20of%20a%20note%20titled%20"social%20construction%20of%20technology%20%28SCOT%29,"%20which%20describes%20the%20theory%20with%20links%20to%20other%20concepts%20such%20as%20"relevant%20social%20group"%20and%20sources%20such%20as%20"@PinchBijker1985.".png)
+
+![A screenshot fro Obsidian of a note titled "social construction of technology (SCOT)," which describes the theory with links to other concepts such as "relevant social group" and sources such as "@PinchBijker1985."](Figure3.png)
+
 *Note.* This brief note offers an overview of a theoretical model with additional key concepts (e.g., relevant social group, Kuhnian paradigm, interpretive flexibility) and literature (e.g., Pinch & Bjiker, 1984; Nagy & Neff, 2015; Noble, 2016) linked through out in blue text or under “Linked mentions,” a list of notes which link to this note (also known as a backlink).
 
 # 

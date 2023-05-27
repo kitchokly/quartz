@@ -15,7 +15,7 @@ enableToc: false
 * Notes can still be found through search when you know what you’re looking for
 * But they are also resurfaced through contextual relations when you don’t
 
-![A screenshot of a file folder system listing approximately 25 Markdown files. Each file is titled with the name of a concept or source, such as "paratext.md," "digital humanities.md," or "@Berlant1998.md.".png](A%20screenshot%20of%20a%20file%20folder%20system%20listing%20approximately%2025%20Markdown%20files.%20Each%20file%20is%20titled%20with%20the%20name%20of%20a%20concept%20or%20source,%20such%20as%20"paratext.md,"%20"digital%20humanities.md,"%20or%20"@Berlant1998.md.".png)
+![Figure2.png](Figure2.png)
 
 # 
 
