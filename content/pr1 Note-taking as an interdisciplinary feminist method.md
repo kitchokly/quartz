@@ -14,7 +14,7 @@ Canadian Communication Association Conference, June 1, 2023
 
 Or scan this code:
 
-![QR code linking to this site.png](QR%20code%20linking%20to%20this%20site.png)
+![300](QR%20code%20linking%20to%20this%20site.png)
 
 Links with this 📖 icon connect to the relevant section of the original paper, which can [📖 read from the beginning here](pa1%20table%20of%20contents.md).
 
